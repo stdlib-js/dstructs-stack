@@ -360,7 +360,7 @@ len = stack.length;
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils-fifo`][@stdlib/utils/fifo]</span><span class="delimiter">: </span><span class="description">first-in-first-out (FIFO) queue.</span>
+-   <span class="package-name">[`@stdlib/dstructs-fifo`][@stdlib/dstructs/fifo]</span><span class="delimiter">: </span><span class="description">first-in-first-out (FIFO) queue.</span>
 
 </section>
 
@@ -440,7 +440,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/utils/fifo]: https://github.com/stdlib-js/utils-fifo
+[@stdlib/dstructs/fifo]: https://github.com/stdlib-js/dstructs-fifo
 
 <!-- </related-links> -->
 
