@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import stack from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-stack@esm/index.mjs';
+import stack from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-stack@v0.1.0-esm/index.mjs';
 ```
 
 #### stack()
@@ -282,7 +282,7 @@ var o = s.toJSON();
 <body>
 <script type="module">
 
-import Stack from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-stack@esm/index.mjs';
+import Stack from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-stack@v0.1.0-esm/index.mjs';
 
 // Create a new stack:
 var stack = new Stack();
