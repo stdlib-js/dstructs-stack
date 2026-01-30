@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import stack from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-stack@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/dstructs-stack/tags). For example,
+
+```javascript
 import stack from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-stack@v0.1.0-deno/mod.js';
 ```
 
@@ -277,7 +282,7 @@ var o = s.toJSON();
 <!-- eslint-disable stdlib/no-redeclare -->
 
 ```javascript
-import Stack from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-stack@v0.1.0-deno/mod.js';
+import Stack from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-stack@deno/mod.js';
 
 // Create a new stack:
 var stack = new Stack();
