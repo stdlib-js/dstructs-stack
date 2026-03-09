@@ -37,19 +37,19 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/symbol-iterator": "^0.2.2",
+    "@stdlib/symbol-iterator": "^0.2.3",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.4",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/assert-instance-of": "^0.3.0",
-    "@stdlib/random-base-randu": "^0.2.2",
+    "@stdlib/assert-instance-of": "^0.3.1",
+    "@stdlib/random-base-randu": "^0.2.3",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
